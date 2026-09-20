@@ -14,6 +14,8 @@ O instalador vai pedir permissão de administrador. Ele precisa disso para verif
 
 ## Como usar
 
-Assim que o instalador avisar que terminou, o sistema está pronto. 
+Assim que o instalador avisar que terminou, o sistema em si está pronto. 
 
-Você não precisa mais mexer nos arquivos dessa pasta. Para usar o painel, basta ir na sua **Área de Trabalho** (ou no Menu Iniciar do Windows) e abrir o atalho **Geass Terminal**. O painel já vai abrir configurado e pronto para receber os comandos.
+Você só vai precisar se dirigir ao xbuscas.net, criar uma conta, abrir seu perfil, abastecer sua conta via algum método de pagamento, pegar seu token pessoal, e substituir em cada um dos arquivos .py "INSIRA SEU TOKEN PESSOAL AQUI" pelo token pessoal da sua conta (mantendo as aspas).
+
+Para usar o painel, basta ir na sua **Área de Trabalho** (ou no Menu Iniciar do Windows) e abrir o atalho **Geass Terminal**. O painel já vai abrir configurado e pronto para receber os comandos.
